@@ -3,6 +3,7 @@ setup steps :
 2. edit the commands on 'bashadditions' to actual location of other files
 
 How the new aliases work  :
+
  ncpp <filename> - makes a new cpp file <filename> using the template.cpp
 
  comp <filename> - compiles the cpp file <filename> 
