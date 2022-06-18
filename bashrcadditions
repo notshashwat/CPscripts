@@ -1,0 +1,5 @@
+alias ncpp='cp <location to template.cpp>'
+alias comp='g++ -std=c++11 -O2 -Wall'
+alias cpfolder='bash <location to newcpfolder.sh>'
+alias tna='<location to tna.out>  > input.txt'
+
